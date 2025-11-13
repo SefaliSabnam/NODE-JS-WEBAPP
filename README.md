@@ -2,7 +2,7 @@
 #  Node.js Web App Deployment on Kubernetes (Minikube)
 
 This project demonstrates how to **containerize a Node.js web application** using **Docker** and deploy it on a **Kubernetes cluster (Minikube)**.  
-At the end, you can access the deployed app using a **clickable link**.
+At the end, you can access the deployed app.
 
 ---
 
