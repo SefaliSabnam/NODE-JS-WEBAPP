@@ -114,7 +114,7 @@ Your app will open in a browser.
 
 ---
 
-## 🌐 Clickable Deployment Link
+##  Deployment Link
 
 ✅ **Live Deployment (Local Minikube)** → [http://127.0.0.1:55777](http://127.0.0.1:55777)
 
@@ -122,7 +122,7 @@ Your app will open in a browser.
 
 ---
 
-## 🧾 Summary
+##  Summary
 
 | Step | Description |
 |------|--------------|
